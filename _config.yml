@@ -1,0 +1,8 @@
+title: Hello-world
+description: This repo is for demonstration purposes only.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
