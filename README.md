@@ -1,4 +1,4 @@
 # hello-world
 
-* Circle CI
-* Unittest
+* CircleCI
+* pytest
