@@ -1,9 +1,5 @@
 import unittest
-# from src import main
-
-import sys
-sys.path.append('..')
-import main
+from src import main
 
 
 class TestFunc(unittest.TestCase):
