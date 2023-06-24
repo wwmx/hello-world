@@ -8,6 +8,11 @@ class TestFunc(unittest.TestCase):
         actual = main.func()
         self.assertEqual(expected, actual)
 
+    def test_func2(self):
+        expected = 'Hello yamada'
+        actual = main.func2('yamada')
+        self.assertEqual(expected, actual)
+
 
 if __name__ == '__main__':
     unittest.main()
