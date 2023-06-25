@@ -2,7 +2,7 @@ def func():
     return 'Hello World'
 
 
-def func22(name):
+def func2(name):
     return f'Hello {name}'
 
 
