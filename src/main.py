@@ -2,9 +2,9 @@ def func():
     return 'Hello World'
 
 
-def func2(name):
+def func22(name):
     return f'Hello {name}'
 
 
 if __name__ == '__main__':
-    print(func3('Joe'))
+    print(func2('Joe'))
