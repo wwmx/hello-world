@@ -7,4 +7,4 @@ def func2(name):
 
 
 if __name__ == '__main__':
-    print(func2('Joe'))
+    print(func3('Joe'))
